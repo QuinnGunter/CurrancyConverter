@@ -21,6 +21,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         inputTextField.clearButtonMode = .always
     }
     
+    //Clear Button
     @IBAction func clearAmount(_ sender: UIButton){
         inputTextField.text = ""
         convertCurrency(sender)
