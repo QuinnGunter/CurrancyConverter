@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "8fD-69-t7W"; */
+"8fD-69-t7W.text" = "0.00";
+
+/* Class = "UILabel"; text = "Pound:"; ObjectID = "9R4-ny-6fm"; */
+"9R4-ny-6fm.text" = "Pound:";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "D6l-qU-QFn"; */
+"D6l-qU-QFn.normalTitle" = "Klar";
+
+/* Class = "UILabel"; text = "Yen:"; ObjectID = "KAz-3Z-jQo"; */
+"KAz-3Z-jQo.text" = "Yen:";
+
+/* Class = "UIButton"; normalTitle = "Convert"; ObjectID = "LqB-lx-tU1"; */
+"LqB-lx-tU1.normalTitle" = "Konvertieren";
+
+/* Class = "UITextField"; placeholder = " Dollar Amount"; ObjectID = "TAt-Hg-biZ"; */
+"TAt-Hg-biZ.placeholder" = "Menge";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "TGK-Ly-kqT"; */
+"TGK-Ly-kqT.text" = "0.00";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "mKu-qW-Lwh"; */
+"mKu-qW-Lwh.text" = "0.00";
+
+/* Class = "UILabel"; text = "Euro:"; ObjectID = "qfh-L7-0dx"; */
+"qfh-L7-0dx.text" = "Euro:";
